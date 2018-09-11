@@ -79,12 +79,14 @@ Unordered
 ### Links
 
 ```
-Login to your account in [chavo1/Markdown]
+Check out [chavo1/Markdown]
 (https://github.com/chavo1/Markdown).
 ```
 
-Login to your account in [chavo1/Markdown](https://github.com/chavo1/Markdown) .
+Check out [chavo1/Markdown](https://github.com/chavo1/Markdown) .
 
 You can even put a YouTube video
 
-<iframe width="469" height="289" src="https://www.youtube.com/embed/06j9QR7XjLA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=06j9QR7XjLA
+" target="_blank"><img src="http://img.youtube.com/vi/06j9QR7XjLA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
